@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Saket Sankhla 👋
 
-<!--
-**SaketSankhla/SaketSankhla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech ECE Student | VLSI Enthusiast | C++ & Flutter Developer
 
-Here are some ideas to get you started:
+I am currently in my 6th semester at Government Engineering College Ajmer. I am passionate about bridging the gap between low-level hardware architecture and software logic. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Current Focus
+* **Hardware & VLSI:** Designing an APB Slave interface using Verilog to master standard AMBA protocols.
+* **Software:** Practicing Data Structures and Algorithms (DSA) in C++.
+* **Mobile Development:** Building mobile applications like "IoT Commander" using Flutter and Dart.
+* **Academics:** Preparing for GATE and ESE exams.
+
+## 💻 Tech Stack
+* **HDLs & Tools:** Verilog, Xilinx Vivado, ModelSim
+* **Languages:** C++, C, Dart
+* **Frameworks:** Flutter
+* **Hardware:** Arduino, ESP Modules
+
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SaketSankhla&show_icons=true&theme=radical)
+
+---
+📫 **Reach me at:** [saketsankh18@gmail.com]
