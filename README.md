@@ -20,4 +20,4 @@ I am currently in my 6th semester at Government Engineering College Ajmer. I am 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SaketSankhla&show_icons=true&theme=radical)
 
 ---
-📫 **Reach me at:** [saketsankh18@gmail.com]
+📫 **Reach me at:** saketsankh18@gmail.com
